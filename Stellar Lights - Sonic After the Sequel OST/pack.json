@@ -1,0 +1,10 @@
+{
+  "name": "Stellar Lights - Sonic After the Sequel",
+  "description": "The track 'Stellar Lights' from the fangame 'Sonic After the Sequel', composed by Funk Fiction.",
+  "author": "Ashiebird",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
